@@ -23,8 +23,8 @@
             "sources": [
                 {
                    "type": "archive",
-                   "url": "https://download.kde.org/stable/release-service/21.12.1/src/kfind-21.12.1.tar.xz",
-                   "sha256": "10071d6a047447ab6bffede44149a41124392a10d3ed3a5c80cc1c8287a1c68c"
+                   "url": "https://download.kde.org/stable/release-service/21.12.2/src/kfind-21.12.2.tar.xz",
+                   "sha256": "cca4f6e7bb253d30425271778006602a3130a40a082bf2502c9d2aef21b9a64f"
                 },
                 {
                    "type": "patch",
