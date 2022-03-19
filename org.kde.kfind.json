@@ -24,7 +24,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kfind-21.12.3.tar.xz",
-                    "sha256": "a0ff3b4a44b938f7f336d4c2fbc302d8a55612b089ee954b2d98ec5f97ee3eec"
+                    "sha256": "a0ff3b4a44b938f7f336d4c2fbc302d8a55612b089ee954b2d98ec5f97ee3eec",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kfind-$version.tar.xz"
+                    }
                 },
                 {
                    "type": "patch",
