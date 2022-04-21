@@ -15,7 +15,6 @@
     "cleanup": [
         "/share/man"
     ],
-
     "modules": [
         {
             "name": "kfind",
@@ -23,18 +22,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kfind-21.12.3.tar.xz",
-                    "sha256": "a0ff3b4a44b938f7f336d4c2fbc302d8a55612b089ee954b2d98ec5f97ee3eec",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kfind-22.04.0.tar.xz",
+                    "sha256": "5133cad0be64fb3fc3f9666b01b4cff8141016f31c244ed39a3e21fc298b6935",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kfind-$version.tar.xz"
                     }
-                },
-                {
-                   "type": "patch",
-                   "path": "appdata.patch"
                 }
             ]
         }
