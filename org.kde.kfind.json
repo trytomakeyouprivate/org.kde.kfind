@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kfind-22.12.0.tar.xz",
-                    "sha256": "86b8dc43a89811bf105bb01e84c980b41b167374ec5961c187b9c65ac9ae5f2e",
+                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/kfind-22.12.1.tar.xz",
+                    "sha256": "8a3af986212c116ca4d47b6d6f4c8af3654effd3615286eac0a61de9364e28d2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
